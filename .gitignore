@@ -1,5 +1,5 @@
 # Ignore data files
-/data
+# /data
 
 # Ignore environment files
 .env
